@@ -1,7 +1,7 @@
 // p23 第0章Javaをはじめよう,0.2_はじめてのプログラミング,0.2.5_計算させてみよう
 // 0-5_計算をする
 
-package section01;
+package section00;
 
 public class Code05 {
 	public static void main(String[] args) {

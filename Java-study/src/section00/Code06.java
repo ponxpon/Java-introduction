@@ -1,7 +1,7 @@
 // p24 第0章Javaをはじめよう,0.2_はじめてのプログラミング,0.2.6_変数を使ってみよう
 // 0-6_変数を使ってみる
 
-package section01;
+package section00;
 
 public class Code06 {
 	public static void main(String[] args) {
